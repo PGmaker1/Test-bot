@@ -14,7 +14,7 @@ runtime.txt
 Profile
 -Profile of my discord bot
 
-# After all
+# Comments for you guys
 
 Don't forget to like and subscribe my youtube channel below,
 https://www.youtube.com/channel/UCBHTZGamiAnV5_PDOciVpow
